@@ -13,6 +13,9 @@ The program allows users to register books, organise them by category, validate 
 - Filtering books by category
 - Saving and loading book records from a text file
 
+## Running the Project
+
+Download the Python file and run it using Python 3. The program runs directly in the console.
 
 ## Academic Project
 
